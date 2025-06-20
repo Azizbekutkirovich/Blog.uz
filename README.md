@@ -39,7 +39,7 @@ Base URL: http://localhost/api.blog.uz/index.php
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/frontend-repo.git
+   git clone https://github.com/Azizbekutkirovich/Blog.uz.git
    ```
 
 2. Open the `index.html` file in your browser:
